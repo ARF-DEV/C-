@@ -4,7 +4,7 @@
 int main(){
 
     player a("Arief",100,30);
-    player b("ASUUU",200,50);
+    player b("ASS",200,50);
 
     a.print();
     b.print();
